@@ -1,4 +1,4 @@
-THis is an index
+This is an index
 
 ## Weclome to my index
 
